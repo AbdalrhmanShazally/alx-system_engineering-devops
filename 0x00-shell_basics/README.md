@@ -11,3 +11,5 @@ use this Command to Print current Working Directory - used with file 0-current_w
 #ls :
 use this command to list the content of the current directory.
 
+#cd ~ :
+use this command to change working directory to home.
