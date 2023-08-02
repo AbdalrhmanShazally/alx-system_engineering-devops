@@ -13,3 +13,7 @@ use this command to list the content of the current directory.
 
 #cd ~ :
 use this command to change working directory to home.
+
+#ls -l : 
+use this command to list files in the long format.
+
