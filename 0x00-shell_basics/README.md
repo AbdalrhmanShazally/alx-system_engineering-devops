@@ -26,3 +26,5 @@ use this command to display current directory content long format + with user gr
 #mkdir :
 use this command to make new directory you can specify the location of the new directory by mkdir /tmp/"new directory name"
 
+#mv :
+use this command to move file from location to location.
