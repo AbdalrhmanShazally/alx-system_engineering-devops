@@ -35,5 +35,8 @@ use this command to remove/delete file.
 #rm -r:
 use this command to delete unempty directory.
 
-#cd .. :
+#cd - :
 use this command to back to previous directory.
+
+#cd -la . .. /boot :
+use this command to show the content even the hidden ones in the current directory and the parent directory + the boot directory.
