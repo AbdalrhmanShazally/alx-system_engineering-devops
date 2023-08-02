@@ -17,3 +17,5 @@ use this command to change working directory to home.
 #ls -l : 
 use this command to list files in the long format.
 
+#ls -a:
+use this command to list hidden files.
