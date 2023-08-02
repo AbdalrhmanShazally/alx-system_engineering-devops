@@ -28,3 +28,6 @@ use this command to make new directory you can specify the location of the new d
 
 #mv :
 use this command to move file from location to location.
+
+#rm :
+use this command to remove/delete file.
