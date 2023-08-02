@@ -19,3 +19,7 @@ use this command to list files in the long format.
 
 #ls -a:
 use this command to list hidden files.
+
+#ls -lan:
+use this command to display current directory content long format + with user group id display numerically + and hidden files (starting with .)
+
