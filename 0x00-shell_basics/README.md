@@ -46,3 +46,6 @@ use this command to show the type of the file.
 
 #ln -s :
 use this command to create symbolic linke.
+
+#cp -un *.html ../
+use this command to copy all html files from current directory to the parent directory , -un : copy only the dosen't exits
