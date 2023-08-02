@@ -40,3 +40,6 @@ use this command to back to previous directory.
 
 #cd -la . .. /boot :
 use this command to show the content even the hidden ones in the current directory and the parent directory + the boot directory.
+
+#file "filename" :
+use this command to show the type of the file.
