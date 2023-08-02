@@ -23,3 +23,6 @@ use this command to list hidden files.
 #ls -lan:
 use this command to display current directory content long format + with user group id display numerically + and hidden files (starting with .)
 
+#mkdir :
+use this command to make new directory you can specify the location of the new directory by mkdir /tmp/"new directory name"
+
