@@ -43,3 +43,6 @@ use this command to show the content even the hidden ones in the current directo
 
 #file "filename" :
 use this command to show the type of the file.
+
+#ln -s :
+use this command to create symbolic linke.
