@@ -22,3 +22,6 @@ add execute permession to the owner of the gorup owner.
 
 8-chmod +x "fileName"
 add execute permission to the owner and the group owner.
+
+9-chmod 007 : 
+this command set permission to other users all permission .
