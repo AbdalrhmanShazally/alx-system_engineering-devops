@@ -25,3 +25,6 @@ add execute permission to the owner and the group owner.
 
 9-chmod 007 : 
 this command set permission to other users all permission .
+
+10:chmod 751 hello:
+add full permession to the user , execute to the 
