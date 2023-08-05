@@ -18,4 +18,7 @@ this command will create an empty file with the name hello.
 add execute permission to owner of the file hello"
 
 7-chmod +114 : 
-add execute permession to the owner of the gorup owner 
+add execute permession to the owner of the gorup owner.
+
+8-chmod +x "fileName"
+add execute permission to the owner and the group owner.
