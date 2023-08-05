@@ -10,3 +10,6 @@ this command will print the group of the current user part off.
 
 4-sudo "owner" "fileName":
 this command will chnage the owner of the file.
+
+5-touch hello:
+this command will create an empty file with the name hello.
