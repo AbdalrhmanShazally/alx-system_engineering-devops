@@ -13,3 +13,6 @@ this command will chnage the owner of the file.
 
 5-touch hello:
 this command will create an empty file with the name hello.
+
+6-chmod u+x "fileName"
+add execute permission to owner of the file hello"
