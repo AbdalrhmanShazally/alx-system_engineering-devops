@@ -7,3 +7,6 @@ use this command to print the effective username of the current user.
 
 3-groups : 
 this command will print the group of the current user part off.
+
+4-sudo "owner" "fileName":
+this command will chnage the owner of the file.
