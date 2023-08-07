@@ -15,3 +15,4 @@ this command will show the contents of 2 files
 4- tail -n 10 /etc/passwd :
 this command is used to print the last 10 lines of file /etc/passwd.
 
+5- head -3 iacta | tail -l
