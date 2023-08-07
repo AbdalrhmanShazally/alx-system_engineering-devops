@@ -9,3 +9,4 @@ the use of backslash is to allow print the ' .
 2- cat /etc/passwd
 show the content of a file.
 
+3- cat /etc/passwd /etc/hosts
