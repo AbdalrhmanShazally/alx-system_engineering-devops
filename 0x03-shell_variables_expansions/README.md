@@ -17,3 +17,6 @@ use this command to list environment variables.
 
 5- set :
 use this command to list all local variables and environement variables and fucntions.
+
+6- BEST="School"
+this command will creat variable $BEST and its value = School.
