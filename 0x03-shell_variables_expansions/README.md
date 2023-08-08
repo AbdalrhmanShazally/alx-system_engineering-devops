@@ -20,3 +20,6 @@ use this command to list all local variables and environement variables and fucn
 
 6- BEST="School"
 this command will creat variable $BEST and its value = School.
+
+7- export BEST="School":
+this command will create globale variable and its value = School.
