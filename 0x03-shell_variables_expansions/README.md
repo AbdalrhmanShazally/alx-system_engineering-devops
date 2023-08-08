@@ -29,3 +29,6 @@ this command will print the result of add 128 to the value  stored incide variab
 
 9- echo "scale=2; $POWER / $DIVIDE" | br :
 use this command to print the result of power divided by divide and new line.
+
+10- echo "$BREATh ^ $LOVE" : 
+use this command to print the result of breath to the power of love .
