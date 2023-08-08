@@ -14,3 +14,6 @@ use the command to count the number of the directories inside PATH variable.
 
 4-env : 
 use this command to list environment variables.
+
+5- set :
+use this command to list all local variables and environement variables and fucntions.
