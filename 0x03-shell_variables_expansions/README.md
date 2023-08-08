@@ -23,3 +23,7 @@ this command will creat variable $BEST and its value = School.
 
 7- export BEST="School":
 this command will create globale variable and its value = School.
+
+8- echo $((128 + $TRUEKNOWLEDGE)) : 
+this command will print the result of add 128 to the value  stored incide variable TRUEKNOWLEDGE. 
+
