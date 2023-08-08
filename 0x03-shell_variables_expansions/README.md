@@ -8,3 +8,6 @@ use the comand to print hello user name.
 
 2-export PATH="$PATH:/action"
 use this cmmand to add /bin to Path variable.
+
+3-echo $PATH | tr ':' '\n' | wc -l
+use the command to count the number of the directories inside PATH variable.
